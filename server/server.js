@@ -147,7 +147,7 @@ const transporter = nodemailer.createTransport({
   service: "gmail",
   auth: {
     user: "vemurisukesh31012006@gmail.com", 
-    pass: "wcxv htzt ekck agjj", 
+    pass: "ekhr ihmt hype aybr", 
   },
 });
 app.post("/send-otp", async (req, res) => {
